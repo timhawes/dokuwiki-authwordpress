@@ -1,0 +1,6 @@
+base   authwordpress
+author Tim Hawes
+email  me@timhawes.com
+date   2013-06-04
+name   wordpress auth plugin
+desc   Provides authentication against a WordPress MySQL database
